@@ -22,3 +22,5 @@ Start the application on both folder:
 ## npm start
 
 Access the application by visiting http://localhost:3000 in your web browser.
+or if you want to direct link to project
+### https://62e03740c38d58055115b171--lighthearted-peony-49810f.netlify.app/#exercises
